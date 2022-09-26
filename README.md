@@ -7,7 +7,7 @@
 - I have already studied digital game programming and have some experience in Unity using C#
 <br>
 
-<h2>Tecnlogies & Abilities</h2>
+<h2>Tecnologies & Abilities</h2>
 <br>
 <div style="display: inline_block">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Andre-HTML"/>
