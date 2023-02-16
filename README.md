@@ -1,6 +1,6 @@
 ## Hi there, I'm André Gugelmin, a Brazilian developer living in Curitiba
 
-- I'm currently studing full-stack web development at Driven 
+- I'm a Full-Stack Web Developer.
 
 - I'm currently a Information Systems student at UTFPR
 
