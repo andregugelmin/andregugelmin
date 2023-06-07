@@ -28,12 +28,6 @@
 </div>
    
 <br>
-<h2>Stats</h2>
-<div>
-  <a href="https://github.com/andregugelmin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andregugelmin&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregugelmin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  <h2>How to reach me</h2>
  <div> 
