@@ -2,7 +2,9 @@
 
 - I'm a Full-Stack Web Developer.
 
-- I'm currently a Information Systems student at UTFPR
+- I hold a degree in Information Systems from UTFPR.
+
+- I work developing a smart city management platform at Exati.
 
 - I have already studied digital game programming and have some experience in Unity using C#
 <br>
